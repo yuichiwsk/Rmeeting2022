@@ -5,7 +5,7 @@
   
     
 　　 
- ### 事前アンケートのお願い  
+### 事前アンケートのお願い  
 Rでの解析について、話題提供者やその他の参加者に質問・相談したいことがございましたら、[Google Form](https://forms.gle/Q6BqWRmMc9A5u2hz5)を用いて事前にお知らせください。[Google Form](https://forms.gle/Q6BqWRmMc9A5u2hz5)ではなく、当日のご質問やご相談ももちろん大歓迎です。 
     
   
